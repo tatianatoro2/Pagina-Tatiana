@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    height: auto;
+    background-color: darkmagenta;
+}
+
+
+.navbar{
+    background-color: rgb(255, 188, 143); 
+    display: flex;
+    padding:4px;
+}
+.navbar p{
+    padding: 20px;
+}
