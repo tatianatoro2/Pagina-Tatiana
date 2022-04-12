@@ -1,15 +1,20 @@
 .header{
     width: 100%;
     height: auto;
-    background-color: darkmagenta;
+    display: flex ;
+    background-color: rgb(255, 157, 101);
 }
 
 
 .navbar{
-    background-color: rgb(255, 188, 143); 
+    background-color: rgb(250, 175, 141); 
     display: flex;
     padding:4px;
 }
 .navbar p{
     padding: 20px;
+}
+section{
+    background-color: rgb(250, 210, 101);
+    text-align: center;
 }
